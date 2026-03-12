@@ -3,7 +3,7 @@
 ![Header](https://github.com/user-attachments/assets/a61f4ec2-bb8a-4a2a-b42e-fff2fd27e8d4)
 
 
-I'm a **Full Stack Developer** and **Team Leader** with over 7 years of experience in building scalable, well-tested applications. Passionate about JavaScript, I excel in designing and implementing robust solutions for startups and enterprises. My journey spans leading teams, solving complex problems, and contributing to high-performing products.
+I'm a **Full Stack Developer** and **Team Leader** with over 8 years of experience in building scalable, well-tested applications. Passionate about JavaScript, I excel in designing and implementing robust solutions for startups and enterprises. My journey spans leading teams, solving complex problems, and contributing to high-performing products.
 
 ---
 
